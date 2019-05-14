@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naiweewaih.triplikat.space/sitemap.xml
